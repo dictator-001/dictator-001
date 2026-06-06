@@ -154,7 +154,7 @@
 
 | 🏅 | Achievement | Details |
 |:--:|:------------|:--------|
-| 🎓 | **Certified Ethical Hacker (CEH) Training** | Undergoing CEH training at RedTeam Hacker Academy, Kalamassery |
+| 🎓 | **Certified Ethical Hacker (CEH) Training** | Completed CEH training at RedTeam Hacker Academy, Kalamassery |
 | 🔐 | **Active SOC Analyst** | Monitoring, triaging & investigating real-world security alerts at EnCyb, InfoPark Koratty (Mar 2026 – Present) |
 | 🏛️ | **Law Enforcement Cyber Internship** | Completed cybercrime investigation internship at Kerala Cyber Police Station, Aluva (Dec 2024 – Jan 2025) |
 | 🛡️ | **Wazuh SIEM Lab Deployment** | End-to-end SIEM deployment — configured agents, validated log ingestion & monitored live security events |
@@ -172,7 +172,7 @@
 | 🎓 Degree | 🏛️ Institution | 📅 Year | 📊 Score |
 |:----------|:---------------|:--------|:---------|
 | B.Sc. Digital & Cyber Forensic Science | CMS College of Science and Commerce, Coimbatore | 2025 | Certified |
-| Certified Ethical Hacker (CEH) Training | RedTeam Hacker Academy, Kalamassery | 2025 | Ongoing|
+| Certified Ethical Hacker (CEH) Training | RedTeam Hacker Academy, Kalamassery | 2025 | Finished |
 
 </div>
 
