@@ -15,7 +15,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=SOC+Analyst+%26+Threat+Hunter;Digital+Forensics+Specialist;SIEM+%7C+EDR+%7C+Threat+Intelligence;Building+Cyber+Security+Tools" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=SOC+Analyst+%26+Threat+Intelligence;Digital+Forensics+Specialist;SIEM+%7C+EDR+%7C+Threat+Intelligence;Building+Cyber+Security+Tools" alt="Typing SVG"/>
 </p>
 
 ---
@@ -24,10 +24,10 @@
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-👋 **Hello! I'm Gopikrishnan B M**, a dedicated **SOC Analyst & Threat Hunter** specializing in digital forensics and security operations. I analyze logs, hunt anomalies, and build tools to defend and secure the digital world.
+👋 **Hello! I'm Gopikrishnan B M**, a dedicated **SOC Analyst & Threat Intelligence** specialist in digital forensics and security operations. I analyze logs, hunt anomalies, and build tools to defend and secure the digital world.
 
 ### 👤 Profile
-* 💼 **Role:** SOC Analyst & Threat Hunter
+* 💼 **Role:** SOC Analyst & Threat Intelligence Specialist
 * 📍 **Location:** Ernakulam, Kerala, India 🇮🇳
 * 🎓 **Education:** B.Sc. Digital & Cyber Forensic Science
 * 🛡️ **Motto:** *Defend · Detect · Respond · Repeat*
