@@ -150,18 +150,9 @@
 
 ## 🎖️ Achievements
 
-<div align="center">
-
-| 🏅 | Achievement | Details |
-|:--:|:------------|:--------|
-| 🎓 | **Certified Ethical Hacker (CEH) Training** | Completed CEH training at RedTeam Hacker Academy, Kalamassery |
-| 🔐 | **Active SOC Analyst** | Monitoring, triaging & investigating real-world security alerts at EnCyb, InfoPark Koratty (Mar 2026 – Present) |
-| 🏛️ | **Law Enforcement Cyber Internship** | Completed cybercrime investigation internship at Kerala Cyber Police Station, Aluva (Dec 2024 – Jan 2025) |
-| 🛡️ | **Wazuh SIEM Lab Deployment** | End-to-end SIEM deployment — configured agents, validated log ingestion & monitored live security events |
-| 🧩 | **Privacy Extension — Prompt Guard** | Built a production-ready browser extension that detects & masks PII before it reaches AI platforms |
-| 📡 | **CTI Platform — CyberPulse** | Developed an aggregated cyber threat intelligence platform centralising multi-source security feeds |
-
-</div>
+<!-- 
+PLACEHOLDER: Add key certifications, honors, awards, or major milestones here.
+-->
 
 ---
 
