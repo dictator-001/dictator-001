@@ -24,31 +24,27 @@
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```python
-class GopikrishnanBM:
-    def __init__(self):
-        self.name               = "Gopikrishnan B M"
-        self.location           = "Ernakulam, Kerala, India 🇮🇳"
-        self.degree             = "B.Sc. Digital & Cyber Forensic Science"
-        self.role               = "SOC Analyst | Threat Hunter"
-        self.stack              = [
-            "SIEM  ─  Wazuh · Elastic · Logpoint",
-            "EDR   ─  SentinelOne",
-            "Tools ─  OSINT · Digital Forensics · Linux",
-        ]
-        self.currently_learning = [
-            "DFIR",
-            "Malware Analysis",
-            "Cloud Security (AWS)",
-        ]
-        self.fun_fact           = "I hunt threats before breakfast ☕"
+👋 **Hello! I'm Gopikrishnan B M**, a dedicated **SOC Analyst & Threat Hunter** specializing in digital forensics and security operations. I analyze logs, hunt anomalies, and build tools to defend and secure the digital world.
 
-    def motto(self) -> str:
-        return "Defend · Detect · Respond · Repeat 🛡️"
+### 👤 Profile
+* 💼 **Role:** SOC Analyst & Threat Hunter
+* 📍 **Location:** Ernakulam, Kerala, India 🇮🇳
+* 🎓 **Education:** B.Sc. Digital & Cyber Forensic Science
+* 🛡️ **Motto:** *Defend · Detect · Respond · Repeat*
 
-me = GopikrishnanBM()
-print(me.motto())
-```
+### ⚙️ Core Focus
+* 🔍 **SIEM:** Wazuh · Elastic · Logpoint
+* 🛡️ **EDR:** SentinelOne
+* 🧰 **Skills:** OSINT · Digital Forensics · Linux Administration
+
+### 📚 Currently Learning
+* 🧠 **DFIR** (Digital Forensics & Incident Response)
+* 🔬 **Malware Analysis** (Static & Dynamic Analysis)
+* ☁️ **Cloud Security** (AWS Security Hub & GuardDuty)
+
+### ☕ Fun Fact
+* *I hunt threats before breakfast!*
+
 
 <br clear="right"/>
 
