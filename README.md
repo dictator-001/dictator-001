@@ -150,8 +150,14 @@
 
 ## 🎖️ Achievements
 
-<!-- 
-PLACEHOLDER: Add key certifications, honors, awards, or major milestones here.
+<!--
+<div align="center">
+
+| 🏅 | Achievement | Details |
+|:--:|:------------|:--------|
+|    |             |         |
+
+</div>
 -->
 
 ---
